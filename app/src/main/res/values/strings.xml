@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mohsen</string>
+    <string name="btn_start">⊹</string>
+    <string name="btn2">تایید</string>
+    <string name="btn3">واریز</string>
+    <string name="btn4">چاپ</string>
+    <string name="btn5">تحویل</string>
+    <string name="btn1">طراحی</string>
+    <string name="btn_save">save</string>
+    <string name="itemText1">hello world</string>
+    <string name="itemText2">hello world</string>
+    <string name="itemBtn1">❌</string>
+    <string name="itemBtn2">✔</string>
+    <string name="DialogText1">نام مشتری</string>
+    <string name="DialogText2">مشخصات تکمیل کننده</string>
+    <string name="tx_1">سفارشات در انتظار طراحی</string>
+    <string name="tx_2">سفارشات در انتظار تایید</string>
+    <string name="tx_3">سفارشات در انتظار واریز</string>
+    <string name="tx_4">سفارشات در انتظار چاپ</string>
+    <string name="tx_5">سفارشات آماده شده در انتظار تحویل</string>
+</resources>

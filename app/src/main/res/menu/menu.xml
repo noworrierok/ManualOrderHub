@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+    <item
+        android:id="@+id/btn5"
+        android:icon="@drawable/delivery"
+        android:title="@string/btn5"
+        />
+
+    <item
+        android:id="@+id/btn4"
+        android:icon="@drawable/print"
+        android:title="@string/btn4"
+        />
+
+    <item
+        android:id="@+id/btn3"
+        android:icon="@drawable/deposit"
+        android:title="@string/btn3"
+        />
+
+    <item
+        android:id="@+id/btn2"
+        android:icon="@drawable/accept"
+        android:title="@string/btn2" />
+
+    <item
+        android:id="@+id/btn1"
+        android:icon="@drawable/design"
+        android:title="@string/btn1"
+        />
+
+</menu>
