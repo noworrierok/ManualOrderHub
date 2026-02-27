@@ -3,7 +3,7 @@
 
 <div dir="rtl">
 
-یک اپلیکیشن اموزشی ساده برای مدیریت جریان سفارش که با **Kotlin** و  **Shared Prefrences**  و **RecyclerView**  و**Fragment** و    layoutهای XML نوشته شده.  
+یک اپلیکیشن اموزشی ساده برای مدیریت جریان سفارش که با **Kotlin** و    layoutهای XML نوشته شده.  
 هدف اصلی این پروژه مدیریت لیستی از سفارشات هست که از shared Prefrences بعنوان پایگاه داده ی اپلیکیشن استفاده میکنه و با ترکیب RecyclerView و  Fragment به شکل اسپاکتی کد لیست رو مدیریت میکنه :
 
 
@@ -13,21 +13,26 @@
 
 </div>
 
-## ویژگی‌ها
-- عملیات اصلی : (عملیات اضافه کردن ، حف کردن سفارش ، انتقال سفارش به لیست بعدی ))
+## عملکرد برنامه
+- عملیات اصلی : (عملیات اضافه کردن سفارش  ، حذف کردن سفارش ، انتقال سفارش به لیست بعدی ))
 - استفاده از انیمیشن برای نمایش نام لیست 
-- )
 
-## تصاویر برنامه
-![صفحه اصلی ماشین حساب](https://github.com/noworrierok/Calculator/raw/main/mainscreenp.png)
+
+<table style="width:100%">
+  <tr>
+    <td><img src="main.jpg" width=240/></td> 
+    <td><img src="add.jpg" width=240/></td> 
+    <td><img src="list.jpg" width=240/></td> 
+  </tr>
+
 ## تکنولوژی‌های استفاده شده
 - زبان: **Kotlin**
-- و UI: **XML** + **View Binding**
+- Shared Prefrences - RecyclerView - Fragment -  constraintlayout -  cardview
 - محیط توسعه: **Android Studio**
-- minSdk: معمولاً 21 یا 24 (بسته به تنظیمات خودت)
-- بدون کتابخانه خارجی (فقط کد خالص اندروید)
+- minSdk = 24
+  targetSdk = 34
+  
 
-## چیزهایی که یاد گرفتم
-- اهمیت مدیریت
+
 
 #)
