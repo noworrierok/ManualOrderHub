@@ -15,7 +15,7 @@
 
 ## عملکرد برنامه
 - عملیات اصلی : (عملیات اضافه کردن سفارش  ، حذف کردن سفارش ، انتقال سفارش به لیست بعدی ))
-- استفاده از انیمیشن برای نمایش نام لیست 
+   
 
 
 <table style="width:100%">
@@ -27,7 +27,8 @@
 
 ## تکنولوژی‌های استفاده شده
 - زبان: **Kotlin**
-- Shared Prefrences - RecyclerView - Fragment -  constraintlayout -  cardview
+- Shared Prefrences - RecyclerView - Fragment -  constraintlayout -  cardview - ObjectAnimator
+
 - محیط توسعه: **Android Studio**
 - minSdk = 24
   targetSdk = 34
